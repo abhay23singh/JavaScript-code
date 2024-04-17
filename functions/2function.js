@@ -34,4 +34,4 @@ function secondvalue(getArray){
     return getArray
 }
 // console.log(secondvalue(newarray));
-console.log(secondvalue([200,300,400,500]))f
+console.log(secondvalue([200,300,400,500]))
