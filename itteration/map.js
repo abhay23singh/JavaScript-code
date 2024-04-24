@@ -11,3 +11,4 @@ for (const [key,value] of map1){
     console.log(key,":-",'value');
 }
 //maps are itterrable but Objects are not
+//In map if we use for in loop then it will give nothing 
